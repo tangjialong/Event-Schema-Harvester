@@ -67,18 +67,31 @@ pip install -r requirement.txt
 
 ### Prepare data & resources
 d1. ace05: Following http://blender.cs.illinois.edu/software/oneie/
+
 d2. chfinann: Download from https://github.com/dolphin-zs/Doc2EDAG
+
 d3. covid19: Download from https://github.com/jmshen1994/ETypeClus
+
 d4. duee: Download from https://ai.baidu.com/broad/subordinate?dataset=duee
+
 d5. ere: Following http://blender.cs.illinois.edu/software/oneie/
+
 d6. nyt: Download from https://catalog.ldc.upenn.edu/LDC2008T19
+
 d7. pandemic:  Download from https://github.com/jmshen1994/ETypeClus
+
 d8. rmrb: People's daily 1946-2003
 
+
+
 o1. bert-large-uncased-whole-word-masking: Download from https://huggingface.co/bert-large-uncased-whole-word-masking
+
 o2. distiluse-base-multilingual-cased-v2: Download from https://huggingface.co/distiluse-base-multilingual-cased-v2
+
 o3. enwiki-20220301-pages-articles-multistream.xml: Download from https://dumps.wikimedia.org/enwiki/20220301/
+
 o4. en_verb_sense_dict_w_features.json: Download from https://github.com/jmshen1994/ETypeClus
+
 o5. zhwiki-20220301-pages-articles-multistream.xml: Download from https://dumps.wikimedia.org/zhwiki/20220301/
 
 ```bash
