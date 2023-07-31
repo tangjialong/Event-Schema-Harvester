@@ -1,0 +1,21 @@
+description: Bloom_demo
+
+environment:
+  image:
+    cpu: >-
+      determinedai/environments:py-3.8-pytorch-1.9-lightning-1.3-tf-2.4-cpu-9f0cb26
+    cuda: >-
+      determinedai/environments:cuda-11.1-pytorch-1.9-lightning-1.3-tf-2.4-gpu-9f0cb26
+    rocm: determinedai/environments:rocm-4.2-pytorch-1.9-tf-2.5-rocm-9f0cb26
+  
+bind_mounts:
+  # Pre-trained Model Folder Bind Mount
+  - host_path: XXXXX
+    container_path: /run/determined/workdir/model
+
+  - host_path: XXXXX
+    container_path: /run/determined/workdir/bloom_demo
+
+resources:
+  resource_pool: A100-80G
+  slots: 5
