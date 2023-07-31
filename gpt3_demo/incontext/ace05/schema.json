@@ -1,0 +1,170 @@
+{
+ "Business:Declare-Bankruptcy": [
+  "Place",
+  "Org"
+ ],
+ "Business:End-Org": [
+  "Place",
+  "Org"
+ ],
+ "Business:Merge-Org": [
+  "Org"
+ ],
+ "Business:Start-Org": [
+  "Agent",
+  "Place",
+  "Org"
+ ],
+ "Conflict:Attack": [
+  "Attacker",
+  "Victim",
+  "Place",
+  "Instrument",
+  "Target"
+ ],
+ "Conflict:Demonstrate": [
+  "Entity",
+  "Place"
+ ],
+ "Contact:Meet": [
+  "Entity",
+  "Place"
+ ],
+ "Contact:Phone-Write": [
+  "Entity",
+  "Place"
+ ],
+ "Justice:Acquit": [
+  "Defendant",
+  "Adjudicator"
+ ],
+ "Justice:Appeal": [
+  "Place",
+  "Adjudicator",
+  "Plaintiff"
+ ],
+ "Justice:Arrest-Jail": [
+  "Agent",
+  "Place",
+  "Person"
+ ],
+ "Justice:Charge-Indict": [
+  "Prosecutor",
+  "Defendant",
+  "Adjudicator",
+  "Place"
+ ],
+ "Justice:Convict": [
+  "Place",
+  "Defendant",
+  "Adjudicator"
+ ],
+ "Justice:Execute": [
+  "Place",
+  "Agent",
+  "Person"
+ ],
+ "Justice:Extradite": [
+  "Agent",
+  "Origin",
+  "Destination",
+  "Person"
+ ],
+ "Justice:Fine": [
+  "Entity",
+  "Adjudicator",
+  "Place"
+ ],
+ "Justice:Pardon": [
+  "Place",
+  "Defendant",
+  "Adjudicator"
+ ],
+ "Justice:Release-Parole": [
+  "Entity",
+  "Place",
+  "Person"
+ ],
+ "Justice:Sentence": [
+  "Place",
+  "Defendant",
+  "Adjudicator"
+ ],
+ "Justice:Sue": [
+  "Place",
+  "Defendant",
+  "Adjudicator",
+  "Plaintiff"
+ ],
+ "Justice:Trial-Hearing": [
+  "Place",
+  "Defendant",
+  "Adjudicator",
+  "Prosecutor"
+ ],
+ "Life:Be-Born": [
+  "Place",
+  "Person"
+ ],
+ "Life:Die": [
+  "Person",
+  "Victim",
+  "Place",
+  "Agent",
+  "Instrument"
+ ],
+ "Life:Divorce": [
+  "Person"
+ ],
+ "Life:Injure": [
+  "Agent",
+  "Instrument",
+  "Place",
+  "Victim"
+ ],
+ "Life:Marry": [
+  "Place",
+  "Person"
+ ],
+ "Movement:Transport": [
+  "Victim",
+  "Agent",
+  "Origin",
+  "Place",
+  "Artifact",
+  "Destination",
+  "Vehicle"
+ ],
+ "Personnel:Elect": [
+  "Place",
+  "Entity",
+  "Person"
+ ],
+ "Personnel:End-Position": [
+  "Entity",
+  "Place",
+  "Person"
+ ],
+ "Personnel:Nominate": [
+  "Agent",
+  "Person"
+ ],
+ "Personnel:Start-Position": [
+  "Entity",
+  "Place",
+  "Person"
+ ],
+ "Transaction:Transfer-Money": [
+  "Giver",
+  "Beneficiary",
+  "Recipient",
+  "Place"
+ ],
+ "Transaction:Transfer-Ownership": [
+  "Place",
+  "Artifact",
+  "Buyer",
+  "Seller",
+  "Beneficiary"
+ ]
+}
