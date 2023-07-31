@@ -1,0 +1,444 @@
+# Cluster 1
+
+Predicates: kill_1, face_3, kill_3, kill_4, fund_0, kill_6, see_1, kill_7, rob_0, overthrow_0, push_0, beat_1, hire_0, slaughter_2, elect_0, bomb_1, kill_0, marry_0, slaughter_0, buy_5, burn_0, shoot_1, shoot_0, attack_0, ask_0, abuse_0, promote_0, hit_1, promote_1, send_0, send_1, shout_2, interview_0, cost_0
+Subjects: [SUBJ]
+Objects: parent, anybody, father, guy, terrorist, opposition, gaddafi, attack, pow, cadre, mandela, man, civilian, citizen, griffin, kind, one, laden, dictator, taxpayer, people, protester, thug, americans, someone, million, soldier, baby, voter, thousand
+
+# Cluster 2
+
+Predicates: destroy_0, pay_0, fund_0, fight_0, destroy_2, blow_3, discuss_0, travel_0, overthrow_0, provide_0, travel_1, establish_0, bomb_0, strike_2, steal_0, bomb_1, leave_0, develop_3, attack_1, invade_0, invade_1, hit_2, visit_0, join_2, join_1, join_0, defend_1, facilitate_0, kick_0, sell_0, cost_0
+Subjects: [SUBJ]
+Objects: country, couple, access, nation, father, pakistan, house, opposition, gaddafi, world, government, car, opponent, military, place, philippines, case, pentagon, resource, regime, kind, iraq, taxpayer, jail, basis, people, army, korea, shabab, china
+
+# Cluster 3
+
+Predicates: walk_0, kill_1, walk_1, meet_5, bring_0, spank_-1, save_0, kill_7, rape_0, ask_1, beat_9, hit_1, beat_2, beat_6, ride_0, beat_7, talk_6, launch_0, send_2, kill_0
+Subjects: [SUBJ]
+Objects: fairgoer, couple, woman, bicycle, wife, kid, girl, people, boy, life, china, baby, man, child
+
+# Cluster 4
+
+Predicates: develop_3, withdraw_1, wield_0, grab_1, declare_0, create_0, provide_0, prepare_1, establish_0, join_1, express_0, lose_4, send_0, send_1, steal_0, lose_0, launch_0, drop_3, build_0, sell_0, drop_1, develop_0
+Subjects: [SUBJ]
+Objects: country, amount, couple, bicycle, resource, war, troop, bomb, basis, house, army, weapon, opposition, knife, carrier, nuke, korea, china, man
+
+# Cluster 5
+
+Predicates: connect_0, fire_1, kill_6, kill_7, see_1, meet_0, abuse_0, fire_0, convict_0, promote_1, indict_0, return_1, whip_0, transfer_1, send_1, suspend_1, remove_0, interview_0, elect_0, execute_0, charge_2, become_0, kill_0, marry_0
+Subjects: [SUBJ]
+Objects: sandusky, michaloliakos, leader, woman, one, official, people, teacher, anyone, pow, cadre, man, group
+
+# Cluster 6
+
+Predicates: occupy_0, expel_0, occupy_2, attack_0, accuse_0, attack_1, rule_0, attack_2, invade_0, invade_1, overthrow_1, overthrow_0, provide_0, join_2, strike_5, enter_0, strike_1, bomb_0, bomb_1, kill_0
+Subjects: [SUBJ]
+Objects: hussein, japan, iran, iraq, pakistan, syria, vietnam, libya, america, gaddafi, taiwan, korea, arafat, shabab, china, philippines
+
+# Cluster 7
+
+Predicates: kill_1, shoot_0, attack_0, see_1, rob_1, convict_0, visit_0, indict_0, transfer_1, question_1, send_2, interview_0, charge_0, issue_0, charge_2, elect_0, marry_0
+Subjects: [SUBJ]
+Objects: sandusky, michaloliakos, griffin, mart, skille, dad, one, gingrich, roh, sharmaidze, mee, people, mastromarino, chun, assange, mandela, zimmerman, man
+
+# Cluster 8
+
+Predicates: pay_0, lose_3, bring_0, see_1, see_4, visit_0, marry_0
+Subjects: [SUBJ]
+Objects: mother, bank, mum, russia, midwife, mart, dad, wife, father, doc, house, people
+
+# Cluster 9
+
+Predicates: destroy_0, leave_0, blitz_-1, attack_0, rape_0, invade_0, discuss_0, invade_1, declare_0, buy_0, overthrow_0, visit_0, express_0, strike_0
+Subjects: [SUBJ]
+Objects: gaddafi, china, russia, nation, carbonite, vietnam, war, jail, case
+
+# Cluster 10
+
+Predicates: hire_0, withdraw_1, join_1, ask_0, ask_1, answer_1, send_2
+Subjects: [SUBJ]
+Objects: sandusky, thug, number, question, student, kid, one, military, troop, employee, people, child
+
+# Cluster 11
+
+Predicates: face_3, fight_0, attack_0, invade_0, send_0, bomb_0
+Subjects: [SUBJ]
+Objects: thug, opposition, country, griffin, traitor, couple, car, kind, opponent, philippines, people, outsider
+
+# Cluster 12
+
+Predicates: meet_5, lose_3, beat_6, save_0, lose_1, lose_0, kill_0
+Subjects: [SUBJ]
+Objects: mother, woman, mum, wife, father, man, life, president
+
+# Cluster 13
+
+Predicates: leave_0, leave_1, join_1, buy_0, sell_0, build_0, drive_0, visit_0, run_7
+Subjects: [SUBJ]
+Objects: army, plane, car, house
+
+# Cluster 14
+
+Predicates: attack_0, save_0, ride_0, buy_0, steal_0, kick_0, drive_0, bomb_1
+Subjects: [SUBJ]
+Objects: taiwan, bicycle, car, carbonite, life
+
+# Cluster 15
+
+Predicates: join_0, marry_0
+Subjects: [SUBJ]
+Objects: army, mother, couple, kind, dad, gingrich, man, people
+
+# Cluster 16
+
+Predicates: buy_5, hire_0, pay_0, face_3, push_0, kill_0
+Subjects: [SUBJ]
+Objects: thug, opposition, civilian, protester
+
+# Cluster 17
+
+Predicates: kill_1, buy_0, send_2
+Subjects: [SUBJ]
+Objects: americans, zimmerman, employee, carbonite, child
+
+# Cluster 18
+
+Predicates: elect_0, see_1, marry_0, become_0
+Subjects: [SUBJ]
+Objects: people, official, voter
+
+# Cluster 19
+
+Predicates: bomb_0, launch_0, promote_1, marry_0
+Subjects: [SUBJ]
+Objects: couple, group
+
+# Cluster 20
+
+Predicates: build_0, facilitate_0
+Subjects: [SUBJ]
+Objects: house, carrier, access
+
+# Cluster 21
+
+Predicates: issue_0, send_1
+Subjects: [SUBJ]
+Objects: mart, people, troop
+
+# Cluster 22
+
+Predicates: interview_0, facilitate_0
+Subjects: [SUBJ]
+Objects: mee, people, access
+
+# Cluster 23
+
+Predicates: discuss_0, interview_0
+Subjects: [SUBJ]
+Objects: sandusky, mee, case
+
+# Cluster 24
+
+Predicates: ask_0, convict_0, kill_0
+Subjects: [SUBJ]
+Objects: one
+
+# Cluster 25
+
+Predicates: send_1, launch_0
+Subjects: [SUBJ]
+Objects: people, couple
+
+# Cluster 26
+
+Predicates: lose_4, kill_0
+Subjects: [SUBJ]
+Objects: amount, thousand
+
+# Cluster 27
+
+Predicates: bomb_1, marry_0
+Subjects: [SUBJ]
+Objects: kind
+
+# Cluster 28
+
+Predicates: bomb_0
+Subjects: [SUBJ]
+Objects: libya, couple
+
+# Cluster 29
+
+Predicates: overthrow_0, kill_3
+Subjects: [SUBJ]
+Objects: dictator, terrorist
+
+# Cluster 30
+
+Predicates: interview_0, talk_6
+Subjects: [SUBJ]
+Objects: people, child
+
+# Cluster 31
+
+Predicates: charge_2, accuse_0
+Subjects: [SUBJ]
+Objects: vietnam, zimmerman
+
+# Cluster 32
+
+Predicates: strike_2, strike_0
+Subjects: [SUBJ]
+Objects: vietnam, pentagon
+
+# Cluster 33
+
+Predicates: shoot_1, remove_0
+Subjects: [SUBJ]
+Objects: people, man
+
+# Cluster 34
+
+Predicates: rob_0, rob_1
+Subjects: [SUBJ]
+Objects: people, griffin
+
+# Cluster 35
+
+Predicates: answer_1, attack_2
+Subjects: [SUBJ]
+Objects: question, iran
+
+# Cluster 36
+
+Predicates: sell_0
+Subjects: [SUBJ]
+Objects: weapon, house
+
+# Cluster 37
+
+Predicates: wield_0, drive_0
+Subjects: [SUBJ]
+Objects: car, knife
+
+# Cluster 38
+
+Predicates: discuss_0, promote_0
+Subjects: [SUBJ]
+Objects: cadre, case
+
+# Cluster 39
+
+Predicates: issue_0, kill_7
+Subjects: [SUBJ]
+Objects: mart, woman
+
+# Cluster 40
+
+Predicates: send_2, lose_4
+Subjects: [SUBJ]
+Objects: number, amount
+
+# Cluster 41
+
+Predicates: sell_0, lose_0
+Subjects: [SUBJ]
+Objects: house, president
+
+# Cluster 42
+
+Predicates: talk_6, connect_0
+Subjects: [SUBJ]
+Objects: man, child
+
+# Cluster 43
+
+Predicates: establish_0, promote_1
+Subjects: [SUBJ]
+Objects: basis, cadre
+
+# Cluster 44
+
+Predicates: burn_0, launch_0
+Subjects: [SUBJ]
+Objects: people, couple
+
+# Cluster 45
+
+Predicates: discuss_0, attack_1
+Subjects: [SUBJ]
+Objects: iraq, case
+
+# Cluster 46
+
+Predicates: face_3, marry_0
+Subjects: [SUBJ]
+Objects: thug, man
+
+# Cluster 47
+
+Predicates: elect_0, overthrow_1
+Subjects: [SUBJ]
+Objects: hussein, mandela
+
+# Cluster 48
+
+Predicates: beat_1, buy_0
+Subjects: [SUBJ]
+Objects: parent, carbonite
+
+# Cluster 49
+
+Predicates: fight_0, buy_0
+Subjects: [SUBJ]
+Objects: country, house
+
+# Cluster 50
+
+Predicates: overthrow_1, kill_7
+Subjects: [SUBJ]
+Objects: hussein, terrorist
+
+# Cluster 51
+
+Predicates: hire_0, kill_7
+Subjects: [SUBJ]
+Objects: thug, terrorist
+
+# Cluster 52
+
+Predicates: express_0, send_1
+Subjects: [SUBJ]
+Objects: china, troop
+
+# Cluster 53
+
+Predicates: steal_0, cost_0
+Subjects: [SUBJ]
+Objects: taxpayer, resource
+
+# Cluster 54
+
+Predicates: pay_0, destroy_2
+Subjects: [SUBJ]
+Objects: philippines, opposition
+
+# Cluster 55
+
+Predicates: elect_0, slaughter_0
+Subjects: [SUBJ]
+Objects: citizen, voter
+
+# Cluster 56
+
+Predicates: spank_-1, whip_0
+Subjects: [SUBJ]
+Objects: people, boy
+
+# Cluster 57
+
+Predicates: bring_0, return_1
+Subjects: [SUBJ]
+Objects: leader, child
+
+# Cluster 58
+
+Predicates: bomb_1, shout_2
+Subjects: [SUBJ]
+Objects: anybody, taiwan
+
+# Cluster 59
+
+Predicates: kill_7, lose_1
+Subjects: [SUBJ]
+Objects: mother, woman
+
+# Cluster 60
+
+Predicates: wield_0, hire_0
+Subjects: [SUBJ]
+Objects: thug, knife
+
+# Cluster 61
+
+Predicates: expel_0, fire_1
+Subjects: [SUBJ]
+Objects: people, arafat
+
+# Cluster 62
+
+Predicates: interview_0, expel_0
+Subjects: [SUBJ]
+Objects: sandusky, arafat
+
+# Cluster 63
+
+Predicates: shout_2, send_2
+Subjects: [SUBJ]
+Objects: employee, anybody
+
+# Cluster 64
+
+Predicates: overthrow_0, elect_0
+Subjects: [SUBJ]
+Objects: someone, dictator
+
+# Cluster 65
+
+Predicates: express_0, facilitate_0
+Subjects: [SUBJ]
+Objects: china, access
+
+# Cluster 66
+
+Predicates: send_2, launch_0
+Subjects: [SUBJ]
+Objects: number, couple
+
+# Cluster 67
+
+Predicates: send_1, send_2
+Subjects: [SUBJ]
+Objects: employee, troop
+
+# Cluster 68
+
+Predicates: strike_2, buy_0
+Subjects: [SUBJ]
+Objects: car, pentagon
+
+# Cluster 69
+
+Predicates: issue_0, visit_0
+Subjects: [SUBJ]
+Objects: mart
+
+# Cluster 70
+
+Predicates: leave_0, become_0
+Subjects: [SUBJ]
+Objects: official, country
+
+# Cluster 71
+
+Predicates: strike_2, kill_3
+Subjects: [SUBJ]
+Objects: pentagon, terrorist
+
+# Cluster 72
+
+Predicates: declare_0, kill_0
+Subjects: [SUBJ]
+Objects: war, attack
+
+# Cluster 73
+
+Predicates: spank_-1, kick_0
+Subjects: [SUBJ]
+Objects: car, kid
+
+# Cluster 74
+
+Predicates: develop_3, promote_1
+Subjects: [SUBJ]
+Objects: country, group
+

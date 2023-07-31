@@ -1,0 +1,30 @@
+# Cluster 235
+
+Predicates: [SUBJ]
+Subjects: lose_3, meet_0, transfer_1, walk_1, spank_-1, send_0, execute_0, marry_0, rob_0, kill_4, walk_0, fund_0, hit_1, fire_1, promote_0, send_2, convict_0, kill_3, promote_1, talk_6, bring_0, hire_0, buy_5, become_0, kill_6, fire_0, suspend_1, lose_0, rape_0, return_1, beat_2, answer_1, connect_0, beat_9, shout_2, slaughter_0, cost_0, save_0, elect_0, ask_1, kill_7, abuse_0, launch_0, slaughter_2, pay_0, beat_7, indict_0, remove_0, see_4, lose_4, send_1, beat_1, lose_1, meet_5, whip_0, see_1, shoot_0, kill_1, face_3, ask_0, burn_0, visit_0, push_0, beat_6, kill_0, shoot_1, interview_0
+Objects: voter, anybody, mother, girl, parent, military, man, gingrich, citizen, wife, cadre, mum, someone, pow, president, life, amount, group, attack, leader, baby, dad, kind, thug, people, protester, official, gaddafi, sandusky, americans, michaloliakos, anyone, doc, terrorist, soldier, fairgoer, father, student, opposition, number, woman, couple, million, griffin, question, child, civilian, zimmerman, mandela, one, employee, thousand, laden, midwife, boy, teacher, taxpayer, guy, kid, china
+
+# Cluster 119
+
+Predicates: [SUBJ]
+Subjects: attack_0, strike_0, steal_0, fight_0, express_0, join_1, hit_2, destroy_2, fund_0, run_7, ride_0, buy_0, leave_1, bomb_0, accuse_0, invade_1, join_2, build_0, join_0, blow_3, strike_2, drive_0, bomb_1, blitz_-1, develop_3, kick_0, establish_0, destroy_0, overthrow_0, travel_1, provide_0, sell_0, leave_0, discuss_0, facilitate_0, visit_0, invade_0, defend_1, travel_0, enter_0
+Objects: china, traitor, military, world, government, pentagon, philippines, dictator, bank, car, shabab, vietnam, kind, carbonite, people, gaddafi, mart, house, taiwan, opponent, jail, couple, griffin, america, basis, bicycle, iran, nation, regime, russia, korea, access, army, place, outsider, plane, case, country
+
+# Cluster 98
+
+Predicates: [SUBJ]
+Subjects: declare_0, drop_3, grab_1, steal_0, sell_0, develop_3, build_0, drop_1, prepare_1, develop_0, wield_0, withdraw_1, send_1, send_0, create_0
+Objects: knife, troop, nuke, carrier, war, resource, weapon, bomb
+
+# Cluster 133
+
+Predicates: [SUBJ]
+Subjects: attack_0, rule_0, attack_1, attack_2, invade_1, strike_5, bomb_0, overthrow_1, expel_0, occupy_2, invade_0, occupy_0, strike_1
+Objects: japan, iran, libya, iraq, syria, hussein, arafat, pakistan
+
+# Cluster 200
+
+Predicates: [SUBJ]
+Subjects: convict_0, question_1, charge_2, charge_0, issue_0, indict_0, interview_0, rob_1
+Objects: chun, mart, mandela, zimmerman, one, assange, roh, mastromarino, man, sharmaidze, skille, mee, griffin, sandusky
+
