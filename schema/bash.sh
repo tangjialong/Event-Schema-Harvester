@@ -1,0 +1,7 @@
+# -*- coding:utf-8 -*- 
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/chfinann --output_file lm_output/3/results-chfinann.json --annotate_file lm_output/3/ann-chfinann.json --data_file data/chfinann --language zh --link_sentence
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/covid19 --output_file lm_output/3/results-covid19.json --annotate_file lm_output/3/ann-covid19.json --data_file data/covid19 --language en --link_sentence
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/ere --output_file lm_output/3/results-ere.json --annotate_file lm_output/3/ann-ere.json --data_file data/ere --language en --link_sentence
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/nyt-5k --output_file lm_output/3/results-nyt.json --annotate_file lm_output/3/ann-nyt.json --data_file data/nyt --language en --link_sentence
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/pandemic --output_file lm_output/3/results-pandemic.json --annotate_file lm_output/3/ann-pandemic.json --data_file data/pandemic --language en --link_sentence
+CUDA_VISIBLE_DEVICES=2 python harvester.py --input_file lm_output/rmrb-5k --output_file lm_output/3/results-rmrb.json --annotate_file lm_output/3/ann-rmrb.json --data_file data/rmrb --language zh --link_sentence
